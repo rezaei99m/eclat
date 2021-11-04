@@ -1,0 +1,26 @@
+minSupport is 3. 
+------------------------------------------------ 1-item sets ------------------------------------------------ 
+['beer'] is in 11 transactions.
+['wine'] is in 8 transactions.
+['cheese'] is in 8 transactions.
+['eggs'] is in 7 transactions.
+['flour'] is in 6 transactions.
+['butter'] is in 6 transactions.
+['potato chips'] is in 8 transactions.
+------------------------------------------------ 2-item sets ------------------------------------------------ 
+['beer', 'wine'] is in 3 transactions.
+['beer', 'potato chips'] is in 8 transactions.
+['wine', 'cheese'] is in 7 transactions.
+['cheese', 'eggs'] is in 3 transactions.
+['cheese', 'flour'] is in 3 transactions.
+['cheese', 'butter'] is in 3 transactions.
+['eggs', 'flour'] is in 6 transactions.
+['eggs', 'butter'] is in 6 transactions.
+['flour', 'butter'] is in 5 transactions.
+------------------------------------------------ 3-item sets ------------------------------------------------ 
+['cheese', 'eggs', 'flour'] is in 3 transactions.
+['cheese', 'eggs', 'butter'] is in 3 transactions.
+['cheese', 'flour', 'butter'] is in 3 transactions.
+['eggs', 'flour', 'butter'] is in 5 transactions.
+------------------------------------------------ 4-item sets ------------------------------------------------ 
+['cheese', 'eggs', 'flour', 'butter'] is in 3 transactions.

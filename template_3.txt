@@ -1,0 +1,372 @@
+minSupport is 2. 
+------------------------------------------------ 1-item sets ------------------------------------------------ 
+['Lassi'] is in 12 transactions.
+['Coffee Powder'] is in 19 transactions.
+['Butter'] is in 16 transactions.
+['Yougurt'] is in 12 transactions.
+['Ghee'] is in 13 transactions.
+['Tea Powder'] is in 13 transactions.
+['Cheese'] is in 13 transactions.
+['Panner'] is in 16 transactions.
+['Bread'] is in 9 transactions.
+['Sugar'] is in 10 transactions.
+['Sweet'] is in 14 transactions.
+['Milk'] is in 12 transactions.
+------------------------------------------------ 2-item sets ------------------------------------------------ 
+['Lassi', 'Coffee Powder'] is in 7 transactions.
+['Lassi', 'Butter'] is in 8 transactions.
+['Lassi', 'Yougurt'] is in 5 transactions.
+['Lassi', 'Ghee'] is in 6 transactions.
+['Lassi', 'Tea Powder'] is in 4 transactions.
+['Lassi', 'Cheese'] is in 5 transactions.
+['Lassi', 'Panner'] is in 7 transactions.
+['Lassi', 'Bread'] is in 2 transactions.
+['Lassi', 'Sugar'] is in 4 transactions.
+['Lassi', 'Sweet'] is in 7 transactions.
+['Lassi', 'Milk'] is in 5 transactions.
+['Coffee Powder', 'Butter'] is in 8 transactions.
+['Coffee Powder', 'Yougurt'] is in 9 transactions.
+['Coffee Powder', 'Ghee'] is in 7 transactions.
+['Coffee Powder', 'Tea Powder'] is in 7 transactions.
+['Coffee Powder', 'Cheese'] is in 7 transactions.
+['Coffee Powder', 'Panner'] is in 6 transactions.
+['Coffee Powder', 'Bread'] is in 7 transactions.
+['Coffee Powder', 'Sugar'] is in 7 transactions.
+['Coffee Powder', 'Sweet'] is in 7 transactions.
+['Coffee Powder', 'Milk'] is in 4 transactions.
+['Butter', 'Yougurt'] is in 9 transactions.
+['Butter', 'Ghee'] is in 8 transactions.
+['Butter', 'Tea Powder'] is in 6 transactions.
+['Butter', 'Cheese'] is in 8 transactions.
+['Butter', 'Panner'] is in 9 transactions.
+['Butter', 'Bread'] is in 2 transactions.
+['Butter', 'Sugar'] is in 5 transactions.
+['Butter', 'Sweet'] is in 5 transactions.
+['Butter', 'Milk'] is in 8 transactions.
+['Yougurt', 'Ghee'] is in 4 transactions.
+['Yougurt', 'Tea Powder'] is in 5 transactions.
+['Yougurt', 'Cheese'] is in 7 transactions.
+['Yougurt', 'Panner'] is in 5 transactions.
+['Yougurt', 'Sugar'] is in 6 transactions.
+['Yougurt', 'Sweet'] is in 3 transactions.
+['Yougurt', 'Milk'] is in 6 transactions.
+['Ghee', 'Tea Powder'] is in 4 transactions.
+['Ghee', 'Cheese'] is in 3 transactions.
+['Ghee', 'Panner'] is in 9 transactions.
+['Ghee', 'Bread'] is in 3 transactions.
+['Ghee', 'Sugar'] is in 3 transactions.
+['Ghee', 'Sweet'] is in 4 transactions.
+['Ghee', 'Milk'] is in 5 transactions.
+['Tea Powder', 'Cheese'] is in 6 transactions.
+['Tea Powder', 'Panner'] is in 7 transactions.
+['Tea Powder', 'Bread'] is in 6 transactions.
+['Tea Powder', 'Sugar'] is in 5 transactions.
+['Tea Powder', 'Sweet'] is in 5 transactions.
+['Tea Powder', 'Milk'] is in 4 transactions.
+['Cheese', 'Panner'] is in 4 transactions.
+['Cheese', 'Bread'] is in 2 transactions.
+['Cheese', 'Sugar'] is in 6 transactions.
+['Cheese', 'Sweet'] is in 5 transactions.
+['Cheese', 'Milk'] is in 5 transactions.
+['Panner', 'Bread'] is in 4 transactions.
+['Panner', 'Sugar'] is in 5 transactions.
+['Panner', 'Sweet'] is in 7 transactions.
+['Panner', 'Milk'] is in 9 transactions.
+['Bread', 'Sweet'] is in 3 transactions.
+['Bread', 'Milk'] is in 2 transactions.
+['Sugar', 'Sweet'] is in 6 transactions.
+['Sugar', 'Milk'] is in 5 transactions.
+['Sweet', 'Milk'] is in 5 transactions.
+------------------------------------------------ 3-item sets ------------------------------------------------ 
+['Lassi', 'Coffee Powder', 'Butter'] is in 4 transactions.
+['Lassi', 'Coffee Powder', 'Yougurt'] is in 3 transactions.
+['Lassi', 'Coffee Powder', 'Ghee'] is in 5 transactions.
+['Lassi', 'Coffee Powder', 'Tea Powder'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Cheese'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Panner'] is in 3 transactions.
+['Lassi', 'Coffee Powder', 'Bread'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Sugar'] is in 3 transactions.
+['Lassi', 'Coffee Powder', 'Sweet'] is in 5 transactions.
+['Lassi', 'Coffee Powder', 'Milk'] is in 2 transactions.
+['Lassi', 'Butter', 'Yougurt'] is in 5 transactions.
+['Lassi', 'Butter', 'Ghee'] is in 4 transactions.
+['Lassi', 'Butter', 'Tea Powder'] is in 2 transactions.
+['Lassi', 'Butter', 'Cheese'] is in 3 transactions.
+['Lassi', 'Butter', 'Panner'] is in 5 transactions.
+['Lassi', 'Butter', 'Sugar'] is in 2 transactions.
+['Lassi', 'Butter', 'Sweet'] is in 3 transactions.
+['Lassi', 'Butter', 'Milk'] is in 5 transactions.
+['Lassi', 'Yougurt', 'Ghee'] is in 3 transactions.
+['Lassi', 'Yougurt', 'Cheese'] is in 2 transactions.
+['Lassi', 'Yougurt', 'Panner'] is in 3 transactions.
+['Lassi', 'Yougurt', 'Milk'] is in 4 transactions.
+['Lassi', 'Ghee', 'Cheese'] is in 2 transactions.
+['Lassi', 'Ghee', 'Panner'] is in 4 transactions.
+['Lassi', 'Ghee', 'Bread'] is in 2 transactions.
+['Lassi', 'Ghee', 'Sugar'] is in 2 transactions.
+['Lassi', 'Ghee', 'Sweet'] is in 3 transactions.
+['Lassi', 'Ghee', 'Milk'] is in 2 transactions.
+['Lassi', 'Tea Powder', 'Cheese'] is in 3 transactions.
+['Lassi', 'Tea Powder', 'Panner'] is in 2 transactions.
+['Lassi', 'Tea Powder', 'Sugar'] is in 2 transactions.
+['Lassi', 'Tea Powder', 'Sweet'] is in 2 transactions.
+['Lassi', 'Cheese', 'Panner'] is in 2 transactions.
+['Lassi', 'Cheese', 'Sweet'] is in 2 transactions.
+['Lassi', 'Cheese', 'Milk'] is in 2 transactions.
+['Lassi', 'Panner', 'Sugar'] is in 3 transactions.
+['Lassi', 'Panner', 'Sweet'] is in 4 transactions.
+['Lassi', 'Panner', 'Milk'] is in 4 transactions.
+['Lassi', 'Bread', 'Sweet'] is in 2 transactions.
+['Lassi', 'Sugar', 'Sweet'] is in 3 transactions.
+['Lassi', 'Sugar', 'Milk'] is in 2 transactions.
+['Lassi', 'Sweet', 'Milk'] is in 2 transactions.
+['Coffee Powder', 'Butter', 'Yougurt'] is in 6 transactions.
+['Coffee Powder', 'Butter', 'Ghee'] is in 4 transactions.
+['Coffee Powder', 'Butter', 'Tea Powder'] is in 2 transactions.
+['Coffee Powder', 'Butter', 'Cheese'] is in 3 transactions.
+['Coffee Powder', 'Butter', 'Panner'] is in 4 transactions.
+['Coffee Powder', 'Butter', 'Sugar'] is in 3 transactions.
+['Coffee Powder', 'Butter', 'Sweet'] is in 3 transactions.
+['Coffee Powder', 'Butter', 'Milk'] is in 3 transactions.
+['Coffee Powder', 'Yougurt', 'Ghee'] is in 3 transactions.
+['Coffee Powder', 'Yougurt', 'Tea Powder'] is in 3 transactions.
+['Coffee Powder', 'Yougurt', 'Cheese'] is in 4 transactions.
+['Coffee Powder', 'Yougurt', 'Panner'] is in 3 transactions.
+['Coffee Powder', 'Yougurt', 'Sugar'] is in 5 transactions.
+['Coffee Powder', 'Yougurt', 'Sweet'] is in 2 transactions.
+['Coffee Powder', 'Yougurt', 'Milk'] is in 4 transactions.
+['Coffee Powder', 'Ghee', 'Tea Powder'] is in 2 transactions.
+['Coffee Powder', 'Ghee', 'Panner'] is in 4 transactions.
+['Coffee Powder', 'Ghee', 'Bread'] is in 2 transactions.
+['Coffee Powder', 'Ghee', 'Sugar'] is in 2 transactions.
+['Coffee Powder', 'Ghee', 'Sweet'] is in 3 transactions.
+['Coffee Powder', 'Tea Powder', 'Cheese'] is in 3 transactions.
+['Coffee Powder', 'Tea Powder', 'Panner'] is in 3 transactions.
+['Coffee Powder', 'Tea Powder', 'Bread'] is in 4 transactions.
+['Coffee Powder', 'Tea Powder', 'Sugar'] is in 3 transactions.
+['Coffee Powder', 'Tea Powder', 'Sweet'] is in 2 transactions.
+['Coffee Powder', 'Cheese', 'Panner'] is in 2 transactions.
+['Coffee Powder', 'Cheese', 'Bread'] is in 2 transactions.
+['Coffee Powder', 'Cheese', 'Sugar'] is in 5 transactions.
+['Coffee Powder', 'Cheese', 'Sweet'] is in 3 transactions.
+['Coffee Powder', 'Cheese', 'Milk'] is in 2 transactions.
+['Coffee Powder', 'Panner', 'Bread'] is in 2 transactions.
+['Coffee Powder', 'Panner', 'Sugar'] is in 3 transactions.
+['Coffee Powder', 'Panner', 'Sweet'] is in 2 transactions.
+['Coffee Powder', 'Panner', 'Milk'] is in 2 transactions.
+['Coffee Powder', 'Bread', 'Sweet'] is in 2 transactions.
+['Coffee Powder', 'Sugar', 'Sweet'] is in 3 transactions.
+['Coffee Powder', 'Sugar', 'Milk'] is in 3 transactions.
+['Butter', 'Yougurt', 'Ghee'] is in 4 transactions.
+['Butter', 'Yougurt', 'Tea Powder'] is in 3 transactions.
+['Butter', 'Yougurt', 'Cheese'] is in 5 transactions.
+['Butter', 'Yougurt', 'Panner'] is in 4 transactions.
+['Butter', 'Yougurt', 'Sugar'] is in 4 transactions.
+['Butter', 'Yougurt', 'Sweet'] is in 3 transactions.
+['Butter', 'Yougurt', 'Milk'] is in 5 transactions.
+['Butter', 'Ghee', 'Tea Powder'] is in 2 transactions.
+['Butter', 'Ghee', 'Cheese'] is in 2 transactions.
+['Butter', 'Ghee', 'Panner'] is in 6 transactions.
+['Butter', 'Ghee', 'Milk'] is in 4 transactions.
+['Butter', 'Tea Powder', 'Cheese'] is in 4 transactions.
+['Butter', 'Tea Powder', 'Panner'] is in 4 transactions.
+['Butter', 'Tea Powder', 'Bread'] is in 2 transactions.
+['Butter', 'Tea Powder', 'Milk'] is in 2 transactions.
+['Butter', 'Cheese', 'Panner'] is in 3 transactions.
+['Butter', 'Cheese', 'Sugar'] is in 3 transactions.
+['Butter', 'Cheese', 'Sweet'] is in 2 transactions.
+['Butter', 'Cheese', 'Milk'] is in 4 transactions.
+['Butter', 'Panner', 'Bread'] is in 2 transactions.
+['Butter', 'Panner', 'Sugar'] is in 2 transactions.
+['Butter', 'Panner', 'Sweet'] is in 2 transactions.
+['Butter', 'Panner', 'Milk'] is in 5 transactions.
+['Butter', 'Sugar', 'Sweet'] is in 3 transactions.
+['Butter', 'Sugar', 'Milk'] is in 3 transactions.
+['Butter', 'Sweet', 'Milk'] is in 2 transactions.
+['Yougurt', 'Ghee', 'Panner'] is in 3 transactions.
+['Yougurt', 'Ghee', 'Milk'] is in 2 transactions.
+['Yougurt', 'Tea Powder', 'Cheese'] is in 3 transactions.
+['Yougurt', 'Tea Powder', 'Panner'] is in 2 transactions.
+['Yougurt', 'Tea Powder', 'Sugar'] is in 2 transactions.
+['Yougurt', 'Cheese', 'Panner'] is in 3 transactions.
+['Yougurt', 'Cheese', 'Sugar'] is in 5 transactions.
+['Yougurt', 'Cheese', 'Sweet'] is in 2 transactions.
+['Yougurt', 'Cheese', 'Milk'] is in 4 transactions.
+['Yougurt', 'Panner', 'Sugar'] is in 2 transactions.
+['Yougurt', 'Panner', 'Milk'] is in 4 transactions.
+['Yougurt', 'Sugar', 'Sweet'] is in 2 transactions.
+['Yougurt', 'Sugar', 'Milk'] is in 3 transactions.
+['Ghee', 'Tea Powder', 'Panner'] is in 4 transactions.
+['Ghee', 'Tea Powder', 'Bread'] is in 2 transactions.
+['Ghee', 'Tea Powder', 'Sugar'] is in 2 transactions.
+['Ghee', 'Tea Powder', 'Sweet'] is in 2 transactions.
+['Ghee', 'Tea Powder', 'Milk'] is in 2 transactions.
+['Ghee', 'Cheese', 'Milk'] is in 2 transactions.
+['Ghee', 'Panner', 'Bread'] is in 2 transactions.
+['Ghee', 'Panner', 'Sugar'] is in 3 transactions.
+['Ghee', 'Panner', 'Sweet'] is in 3 transactions.
+['Ghee', 'Panner', 'Milk'] is in 4 transactions.
+['Ghee', 'Bread', 'Sweet'] is in 2 transactions.
+['Ghee', 'Sugar', 'Sweet'] is in 2 transactions.
+['Ghee', 'Sugar', 'Milk'] is in 2 transactions.
+['Tea Powder', 'Cheese', 'Panner'] is in 2 transactions.
+['Tea Powder', 'Cheese', 'Sugar'] is in 3 transactions.
+['Tea Powder', 'Cheese', 'Sweet'] is in 2 transactions.
+['Tea Powder', 'Panner', 'Bread'] is in 4 transactions.
+['Tea Powder', 'Panner', 'Sugar'] is in 2 transactions.
+['Tea Powder', 'Panner', 'Sweet'] is in 3 transactions.
+['Tea Powder', 'Panner', 'Milk'] is in 4 transactions.
+['Tea Powder', 'Bread', 'Sweet'] is in 2 transactions.
+['Tea Powder', 'Bread', 'Milk'] is in 2 transactions.
+['Tea Powder', 'Sugar', 'Sweet'] is in 4 transactions.
+['Tea Powder', 'Sweet', 'Milk'] is in 2 transactions.
+['Cheese', 'Panner', 'Milk'] is in 3 transactions.
+['Cheese', 'Sugar', 'Sweet'] is in 3 transactions.
+['Cheese', 'Sugar', 'Milk'] is in 2 transactions.
+['Panner', 'Bread', 'Sweet'] is in 2 transactions.
+['Panner', 'Bread', 'Milk'] is in 2 transactions.
+['Panner', 'Sugar', 'Sweet'] is in 3 transactions.
+['Panner', 'Sugar', 'Milk'] is in 4 transactions.
+['Panner', 'Sweet', 'Milk'] is in 4 transactions.
+['Sugar', 'Sweet', 'Milk'] is in 2 transactions.
+------------------------------------------------ 4-item sets ------------------------------------------------ 
+['Lassi', 'Coffee Powder', 'Butter', 'Yougurt'] is in 3 transactions.
+['Lassi', 'Coffee Powder', 'Butter', 'Ghee'] is in 3 transactions.
+['Lassi', 'Coffee Powder', 'Butter', 'Panner'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Butter', 'Sweet'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Butter', 'Milk'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Yougurt', 'Ghee'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Yougurt', 'Milk'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Ghee', 'Panner'] is in 3 transactions.
+['Lassi', 'Coffee Powder', 'Ghee', 'Bread'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Ghee', 'Sugar'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Ghee', 'Sweet'] is in 3 transactions.
+['Lassi', 'Coffee Powder', 'Tea Powder', 'Sugar'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Tea Powder', 'Sweet'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Cheese', 'Sweet'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Panner', 'Sugar'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Panner', 'Sweet'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Bread', 'Sweet'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Sugar', 'Sweet'] is in 2 transactions.
+['Lassi', 'Butter', 'Yougurt', 'Ghee'] is in 3 transactions.
+['Lassi', 'Butter', 'Yougurt', 'Cheese'] is in 2 transactions.
+['Lassi', 'Butter', 'Yougurt', 'Panner'] is in 3 transactions.
+['Lassi', 'Butter', 'Yougurt', 'Milk'] is in 4 transactions.
+['Lassi', 'Butter', 'Ghee', 'Panner'] is in 3 transactions.
+['Lassi', 'Butter', 'Ghee', 'Milk'] is in 2 transactions.
+['Lassi', 'Butter', 'Tea Powder', 'Cheese'] is in 2 transactions.
+['Lassi', 'Butter', 'Cheese', 'Panner'] is in 2 transactions.
+['Lassi', 'Butter', 'Cheese', 'Milk'] is in 2 transactions.
+['Lassi', 'Butter', 'Panner', 'Sugar'] is in 2 transactions.
+['Lassi', 'Butter', 'Panner', 'Sweet'] is in 2 transactions.
+['Lassi', 'Butter', 'Panner', 'Milk'] is in 4 transactions.
+['Lassi', 'Butter', 'Sugar', 'Milk'] is in 2 transactions.
+['Lassi', 'Butter', 'Sweet', 'Milk'] is in 2 transactions.
+['Lassi', 'Yougurt', 'Ghee', 'Panner'] is in 2 transactions.
+['Lassi', 'Yougurt', 'Ghee', 'Milk'] is in 2 transactions.
+['Lassi', 'Yougurt', 'Cheese', 'Panner'] is in 2 transactions.
+['Lassi', 'Yougurt', 'Cheese', 'Milk'] is in 2 transactions.
+['Lassi', 'Yougurt', 'Panner', 'Milk'] is in 3 transactions.
+['Lassi', 'Ghee', 'Panner', 'Sugar'] is in 2 transactions.
+['Lassi', 'Ghee', 'Panner', 'Sweet'] is in 2 transactions.
+['Lassi', 'Ghee', 'Panner', 'Milk'] is in 2 transactions.
+['Lassi', 'Ghee', 'Bread', 'Sweet'] is in 2 transactions.
+['Lassi', 'Tea Powder', 'Sugar', 'Sweet'] is in 2 transactions.
+['Lassi', 'Cheese', 'Panner', 'Milk'] is in 2 transactions.
+['Lassi', 'Panner', 'Sugar', 'Sweet'] is in 2 transactions.
+['Lassi', 'Panner', 'Sugar', 'Milk'] is in 2 transactions.
+['Coffee Powder', 'Butter', 'Yougurt', 'Ghee'] is in 3 transactions.
+['Coffee Powder', 'Butter', 'Yougurt', 'Cheese'] is in 2 transactions.
+['Coffee Powder', 'Butter', 'Yougurt', 'Panner'] is in 2 transactions.
+['Coffee Powder', 'Butter', 'Yougurt', 'Sugar'] is in 3 transactions.
+['Coffee Powder', 'Butter', 'Yougurt', 'Sweet'] is in 2 transactions.
+['Coffee Powder', 'Butter', 'Yougurt', 'Milk'] is in 3 transactions.
+['Coffee Powder', 'Butter', 'Ghee', 'Panner'] is in 3 transactions.
+['Coffee Powder', 'Butter', 'Tea Powder', 'Panner'] is in 2 transactions.
+['Coffee Powder', 'Butter', 'Cheese', 'Sugar'] is in 2 transactions.
+['Coffee Powder', 'Butter', 'Sugar', 'Milk'] is in 2 transactions.
+['Coffee Powder', 'Yougurt', 'Ghee', 'Panner'] is in 2 transactions.
+['Coffee Powder', 'Yougurt', 'Cheese', 'Sugar'] is in 4 transactions.
+['Coffee Powder', 'Yougurt', 'Cheese', 'Milk'] is in 2 transactions.
+['Coffee Powder', 'Yougurt', 'Panner', 'Sugar'] is in 2 transactions.
+['Coffee Powder', 'Yougurt', 'Panner', 'Milk'] is in 2 transactions.
+['Coffee Powder', 'Yougurt', 'Sugar', 'Milk'] is in 3 transactions.
+['Coffee Powder', 'Ghee', 'Tea Powder', 'Panner'] is in 2 transactions.
+['Coffee Powder', 'Ghee', 'Panner', 'Sugar'] is in 2 transactions.
+['Coffee Powder', 'Ghee', 'Panner', 'Sweet'] is in 2 transactions.
+['Coffee Powder', 'Ghee', 'Bread', 'Sweet'] is in 2 transactions.
+['Coffee Powder', 'Tea Powder', 'Cheese', 'Sugar'] is in 2 transactions.
+['Coffee Powder', 'Tea Powder', 'Panner', 'Bread'] is in 2 transactions.
+['Coffee Powder', 'Tea Powder', 'Sugar', 'Sweet'] is in 2 transactions.
+['Coffee Powder', 'Cheese', 'Sugar', 'Sweet'] is in 2 transactions.
+['Coffee Powder', 'Cheese', 'Sugar', 'Milk'] is in 2 transactions.
+['Coffee Powder', 'Panner', 'Sugar', 'Milk'] is in 2 transactions.
+['Butter', 'Yougurt', 'Ghee', 'Panner'] is in 3 transactions.
+['Butter', 'Yougurt', 'Ghee', 'Milk'] is in 2 transactions.
+['Butter', 'Yougurt', 'Tea Powder', 'Cheese'] is in 2 transactions.
+['Butter', 'Yougurt', 'Tea Powder', 'Panner'] is in 2 transactions.
+['Butter', 'Yougurt', 'Cheese', 'Panner'] is in 2 transactions.
+['Butter', 'Yougurt', 'Cheese', 'Sugar'] is in 3 transactions.
+['Butter', 'Yougurt', 'Cheese', 'Sweet'] is in 2 transactions.
+['Butter', 'Yougurt', 'Cheese', 'Milk'] is in 3 transactions.
+['Butter', 'Yougurt', 'Panner', 'Milk'] is in 3 transactions.
+['Butter', 'Yougurt', 'Sugar', 'Sweet'] is in 2 transactions.
+['Butter', 'Yougurt', 'Sugar', 'Milk'] is in 2 transactions.
+['Butter', 'Ghee', 'Tea Powder', 'Panner'] is in 2 transactions.
+['Butter', 'Ghee', 'Cheese', 'Milk'] is in 2 transactions.
+['Butter', 'Ghee', 'Panner', 'Milk'] is in 3 transactions.
+['Butter', 'Tea Powder', 'Cheese', 'Panner'] is in 2 transactions.
+['Butter', 'Tea Powder', 'Panner', 'Bread'] is in 2 transactions.
+['Butter', 'Tea Powder', 'Panner', 'Milk'] is in 2 transactions.
+['Butter', 'Cheese', 'Panner', 'Milk'] is in 2 transactions.
+['Butter', 'Cheese', 'Sugar', 'Sweet'] is in 2 transactions.
+['Butter', 'Panner', 'Sugar', 'Milk'] is in 2 transactions.
+['Yougurt', 'Ghee', 'Panner', 'Milk'] is in 2 transactions.
+['Yougurt', 'Tea Powder', 'Cheese', 'Sugar'] is in 2 transactions.
+['Yougurt', 'Cheese', 'Panner', 'Milk'] is in 3 transactions.
+['Yougurt', 'Cheese', 'Sugar', 'Sweet'] is in 2 transactions.
+['Yougurt', 'Cheese', 'Sugar', 'Milk'] is in 2 transactions.
+['Yougurt', 'Panner', 'Sugar', 'Milk'] is in 2 transactions.
+['Ghee', 'Tea Powder', 'Panner', 'Bread'] is in 2 transactions.
+['Ghee', 'Tea Powder', 'Panner', 'Sugar'] is in 2 transactions.
+['Ghee', 'Tea Powder', 'Panner', 'Sweet'] is in 2 transactions.
+['Ghee', 'Tea Powder', 'Panner', 'Milk'] is in 2 transactions.
+['Ghee', 'Tea Powder', 'Sugar', 'Sweet'] is in 2 transactions.
+['Ghee', 'Panner', 'Sugar', 'Sweet'] is in 2 transactions.
+['Ghee', 'Panner', 'Sugar', 'Milk'] is in 2 transactions.
+['Tea Powder', 'Cheese', 'Sugar', 'Sweet'] is in 2 transactions.
+['Tea Powder', 'Panner', 'Bread', 'Sweet'] is in 2 transactions.
+['Tea Powder', 'Panner', 'Bread', 'Milk'] is in 2 transactions.
+['Tea Powder', 'Panner', 'Sugar', 'Sweet'] is in 2 transactions.
+['Tea Powder', 'Panner', 'Sweet', 'Milk'] is in 2 transactions.
+['Panner', 'Sugar', 'Sweet', 'Milk'] is in 2 transactions.
+------------------------------------------------ 5-item sets ------------------------------------------------ 
+['Lassi', 'Coffee Powder', 'Butter', 'Yougurt', 'Ghee'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Butter', 'Yougurt', 'Milk'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Butter', 'Ghee', 'Panner'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Ghee', 'Panner', 'Sugar'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Ghee', 'Panner', 'Sweet'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Ghee', 'Bread', 'Sweet'] is in 2 transactions.
+['Lassi', 'Coffee Powder', 'Tea Powder', 'Sugar', 'Sweet'] is in 2 transactions.
+['Lassi', 'Butter', 'Yougurt', 'Ghee', 'Panner'] is in 2 transactions.
+['Lassi', 'Butter', 'Yougurt', 'Ghee', 'Milk'] is in 2 transactions.
+['Lassi', 'Butter', 'Yougurt', 'Cheese', 'Panner'] is in 2 transactions.
+['Lassi', 'Butter', 'Yougurt', 'Cheese', 'Milk'] is in 2 transactions.
+['Lassi', 'Butter', 'Yougurt', 'Panner', 'Milk'] is in 3 transactions.
+['Lassi', 'Butter', 'Ghee', 'Panner', 'Milk'] is in 2 transactions.
+['Lassi', 'Butter', 'Cheese', 'Panner', 'Milk'] is in 2 transactions.
+['Lassi', 'Butter', 'Panner', 'Sugar', 'Milk'] is in 2 transactions.
+['Lassi', 'Yougurt', 'Ghee', 'Panner', 'Milk'] is in 2 transactions.
+['Lassi', 'Yougurt', 'Cheese', 'Panner', 'Milk'] is in 2 transactions.
+['Coffee Powder', 'Butter', 'Yougurt', 'Ghee', 'Panner'] is in 2 transactions.
+['Coffee Powder', 'Butter', 'Yougurt', 'Cheese', 'Sugar'] is in 2 transactions.
+['Coffee Powder', 'Butter', 'Yougurt', 'Sugar', 'Milk'] is in 2 transactions.
+['Coffee Powder', 'Yougurt', 'Cheese', 'Sugar', 'Milk'] is in 2 transactions.
+['Coffee Powder', 'Yougurt', 'Panner', 'Sugar', 'Milk'] is in 2 transactions.
+['Butter', 'Yougurt', 'Ghee', 'Panner', 'Milk'] is in 2 transactions.
+['Butter', 'Yougurt', 'Cheese', 'Panner', 'Milk'] is in 2 transactions.
+['Butter', 'Yougurt', 'Cheese', 'Sugar', 'Sweet'] is in 2 transactions.
+['Ghee', 'Tea Powder', 'Panner', 'Sugar', 'Sweet'] is in 2 transactions.
+------------------------------------------------ 6-item sets ------------------------------------------------ 
+['Lassi', 'Butter', 'Yougurt', 'Ghee', 'Panner', 'Milk'] is in 2 transactions.
+['Lassi', 'Butter', 'Yougurt', 'Cheese', 'Panner', 'Milk'] is in 2 transactions.

@@ -1,0 +1,9 @@
+minSupport is 4. 
+------------------------------------------------ 1-item sets ------------------------------------------------ 
+['I1'] is in 6 transactions.
+['I2'] is in 7 transactions.
+['I3'] is in 6 transactions.
+------------------------------------------------ 2-item sets ------------------------------------------------ 
+['I1', 'I2'] is in 4 transactions.
+['I1', 'I3'] is in 4 transactions.
+['I2', 'I3'] is in 4 transactions.
